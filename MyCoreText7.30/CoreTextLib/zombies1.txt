@@ -1,0 +1,8 @@
+<img src="zombie2.jpg" width="30" height="30">
+sdfs
+<img src="zombie2.jpg" width="20" height="49">
+sdf
+<font color="red" strokeColor="orange" face="Zapfino">Letter from the editor
+<font color="black" strokeColor="gray" face="Palatino">
+<img src="zombie2.jpg" width="20" height="49">
+One<img src="zombie2.jpg" width="20" height="49">of the most <img src="zombie2.jpg" width="20" height="49">famous zombie-themed television
